@@ -1,5 +1,11 @@
 # Smart Contract
 
+## Generate sha256
+
+```bash
+echo -n "1aaa" | sha256sum
+```
+
 ## Misc
 
 Etherscan
